@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: At Page home, click on hyperlink view product > navigate to Page product details",
+        "step 3: At Page product details, click on input quantity",
+        "step 4: At Page product details, input on input quantity",
+        "step 5: At Page product details, click on button add to cart",
+        "step 6: At Page product details, click on button continue shopping",
+        "step 7: Add visual checkpoint at Page product details"
+    ]
+}

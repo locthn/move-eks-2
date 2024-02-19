@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: At Page home, click on ul object",
+        "step 3: At Page home, click on hyperlink products > navigate to Page products",
+        "step 4: Add visual checkpoint at Page products"
+    ]
+}

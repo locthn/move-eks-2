@@ -1,5 +1,5 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-0,Verify Adding Product to Cart and Proceeding to Checkout from Product Details Page,Navigate to the home page and view the product details. Add the desired quantity to the cart and proceed to view the cart. Proceed to checkout and verify the view cart page.,"step 1: Navigate to Page home
+0,Verify Adding Product to Cart and Proceeding to Checkout,Navigate to the home page and view product details. Add the desired quantity to the cart and proceed to view the cart. Proceed to checkout and verify the cart page.,"step 1: Navigate to Page home
 step 2: At Page home, click on hyperlink view product > navigate to Page product details
 step 3: At Page product details, click on input quantity
 step 4: At Page product details, input on input quantity
@@ -9,14 +9,14 @@ step 7: At Page view cart, click on hyperlink object
 step 8: At Page view cart, click on hyperlink object
 step 9: At Page view cart, click on hyperlink proceed to checkout
 step 10: Add visual checkpoint at Page view cart",High
-1,Verify Adding Product to Cart and Continuing Shopping from Product Details Page,Navigate to the home page and view the product details. Add the desired quantity to the cart and continue shopping. Verify the product details page.,"step 1: Navigate to Page home
+1,Verify Adding Product to Cart and Continuing Shopping,Navigate to the home page and view product details. Add the desired quantity to the cart and continue shopping. Verify the product details page.,"step 1: Navigate to Page home
 step 2: At Page home, click on hyperlink view product > navigate to Page product details
 step 3: At Page product details, click on input quantity
 step 4: At Page product details, input on input quantity
 step 5: At Page product details, click on button add to cart
 step 6: At Page product details, click on button continue shopping
 step 7: Add visual checkpoint at Page product details",High
-2,Verify Adding Saree to Cart from Women s Category,Navigate to the home page and access the women's category. Select a saree and add it to the cart. Verify the category products page.,"step 1: Navigate to Page home
+2,Verify Adding Saree to Cart from Women s Category,Navigate to the home page and access the women's category. Add a saree to the cart and verify the category products page.,"step 1: Navigate to Page home
 step 2: At Page home, click on hyperlink women
 step 3: At Page home, click on hyperlink saree > navigate to Page category products
 step 4: At Page category products, click on hyperlink add to cart
